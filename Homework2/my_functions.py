@@ -9,7 +9,7 @@ def sqrt(x):
     return x ** .5
 
 
-def hypotenuse(a,b):
+def hypotenuse(a, b):
     x = (a**2) + (b**2)
     return sqrt(x)
 
